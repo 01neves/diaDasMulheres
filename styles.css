@@ -1,0 +1,134 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(139, 66, 136, 0.137);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.title {
+    font-size: 36px;
+    color: #e91e63;
+}
+
+main {
+    text-align: center;
+}
+
+.declaration-box {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.declaration-text {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+}
+.hearts {
+    margin-top: 20px;
+}
+
+.heart {
+    color: #e91e63;
+    font-size: 24px;
+}
+.hearts-container {
+    position: relative;
+    height: 100vh;
+}
+
+.heart-large {
+    position: absolute;
+    font-size: 48px;
+    color: #e91e63;
+}
+
+.heart-large:nth-child(1) {
+    top: 5%;
+    left: 10%;
+}
+
+.heart-large:nth-child(2) {
+    top: 5%;
+    left: 15%;
+}
+
+.heart-large:nth-child(3) {
+    top: 5%;
+    left: 20%;
+}
+
+.heart-large:nth-child(4) {
+    top: 5%;
+    left: 25%;
+}
+
+.heart-large:nth-child(5) {
+    top: 5%;
+    left: 30%;
+}
+.heart-large:nth-child(6) {
+    top: 5%;
+    left: 35%;
+}
+.heart-large:nth-child(7) {
+    top: 5%;
+    left: 40%;
+}
+.heart-large:nth-child(8) {
+    top: 5%;
+    left: 45%;
+}
+.heart-large:nth-child(9) {
+    top: 5%;
+    left: 50%;
+}
+.heart-large:nth-child(10) {
+    top: 5%;
+    left: 55%;
+}
+.heart-large:nth-child(11) {
+    top: 5%;
+    left: 60%;
+}
+.heart-large:nth-child(12) {
+    top: 5%;
+    left: 65%;
+}
+.heart-large:nth-child(13) {
+    top: 5%;
+    left: 70%;
+}
+.heart-large:nth-child(14) {
+    top: 5%;
+    left: 75%;
+}
+.heart-large:nth-child(15) {
+    top: 5%;
+    left: 80%;
+}
+.heart-large:nth-child(16) {
+    top: 5%;
+    left: 85%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
